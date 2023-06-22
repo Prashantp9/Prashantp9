@@ -1,1 +1,2 @@
-<h1>Prashant Pawar</h1>
+<h3>Prashant Pawar</h3>
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
