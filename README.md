@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Prashant Pawar](https://verma-anushka.github.io/anushkaverma/), an experienced full stack web developer working in the information technology.
+I'm [Prashant Pawar](https://github.com/Prashantp9), an experienced full stack web developer working in the information technology.
 
  ---
 **Languages and Tools:**
