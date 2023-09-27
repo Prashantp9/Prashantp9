@@ -16,7 +16,7 @@ I'm [Prashant Pawar](https://github.com/Prashantp9), an experienced full stack w
   </p>
 
 ---
-[Github Stats:
+<!-- >Github Stats:
 
 <!-- <p align="center">
 
