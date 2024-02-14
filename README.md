@@ -1,6 +1,5 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-
-I'm [Prashant Pawar](https://github.com/Prashantp9), an experienced full stack web developer working in the information technology.
+Hello there! Welcome to my GitHub profile! I'm Prashant Pawar, a passionate software Developer
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
