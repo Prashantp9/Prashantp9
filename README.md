@@ -9,7 +9,6 @@ I'm [Prashant Pawar](https://github.com/Prashantp9), an experienced full stack w
 <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="50" />
 </a>
 <br/>
----
 
 **Languages and Tools:**
 
