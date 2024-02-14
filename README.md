@@ -2,6 +2,13 @@
 
 I'm [Prashant Pawar](https://github.com/Prashantp9), an experienced full stack web developer working in the information technology.
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prashant-pawar-565b33242/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="50" />
+</a>
+<br/>
 ---
 
 **Languages and Tools:**
